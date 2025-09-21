@@ -1,0 +1,5 @@
+{
+  "name": "AiAskU - WikiQuiz",
+  "description": "An intelligent quiz tool that uses the Gemini API to evaluate your knowledge on various topics and provide detailed feedback on your answers, much like a personal tutor.",
+  "requestFramePermissions": []
+}
